@@ -1,2 +1,3 @@
 # hello-world
-just a simple poject
+ just a simple poject
+ I follow the guide
